@@ -1,2 +1,2 @@
-# CLT-BancoDeDados
+# CLT/BancoDeDados
 aulas do Danizinho
